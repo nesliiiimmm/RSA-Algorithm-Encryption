@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\neslihan ak\desktop\projects\eski\rsason\rsason\source.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RSAson.vcxproj -> C:\Users\Neslihan Ak\Desktop\Projects\Eski\RSAson\Debug\RSAson.exe
